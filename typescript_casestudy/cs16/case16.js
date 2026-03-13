@@ -59,3 +59,4 @@ drinkOrder.serveDrink("Latte");
 drinkOrder.serveDrink("Espresso");
 drinkOrder.removeObserver(bob);
 drinkOrder.serveDrink("Smoothie");
+
