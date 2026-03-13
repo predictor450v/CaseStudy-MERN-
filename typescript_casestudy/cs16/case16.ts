@@ -33,7 +33,6 @@ class DrinkOrder implements Subject {
     this.notify(drinkName);
   }
 }
-
 // --- CustomerNotifier Observer ---
 class CustomerNotifier implements Observer {
   constructor(private customerName: string) {}
